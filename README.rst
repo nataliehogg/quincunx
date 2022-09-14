@@ -1,3 +1,6 @@
+.. image:: https://github.com/nataliehogg/quincunx/blob/main/quincunx/docs/figures/logo.png
+    :target: https://github.com/nataliehogg/quincunx/blob/main/quincunx/docs/figures/logo.png
+
 ===============
 quincunx
 ===============
